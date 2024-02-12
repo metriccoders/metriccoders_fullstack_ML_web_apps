@@ -24,6 +24,9 @@ Each application in this repository is contained in its own directory and includ
   - Metric Coders - General GPT powered by Mistral AI
     - frontend: https://github.com/metriccoders/chatgpt_mistralai_frontend
     - backend: https://github.com/metriccoders/chatgpt_mistral_ai_backend
+  - Metric Coders - Finance GPT powered by Finace LLM 13B
+    - frontend: https://github.com/metriccoders/chatgpt_finance_ai_frontend
+    - backend: https://github.com/metriccoders/chatgpt_finance_backend
 
 
 We hope you find these applications useful and encourage you to contribute!
