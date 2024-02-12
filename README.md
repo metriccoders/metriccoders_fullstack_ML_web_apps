@@ -7,11 +7,11 @@ Welcome to the Metric Coders Github repository! This repository contains a compr
 Our applications are built using a variety of technologies:
 
 - Frontend: **React JS**, **Next JS**
-- Backend: Various Machine Learning models including:
+- ML Models: Various Machine Learning models including:
   - **PyTorch Models**
   - **Keras Models**
   - **Scikit-learn Models**
-  - Generative AI models like **Llama 2**
+  - **Generative AI models like Llama 2, Mistral AI and others**
 - Backend API: Run models using Fastapi  
 
 ## Applications
@@ -21,6 +21,9 @@ Each application in this repository is contained in its own directory and includ
   - Metric Coders - General GPT powered by Llama2
     - frontend: https://github.com/metriccoders/frontend-chatgpt
     - backend: https://github.com/metriccoders/chatgpt_llama2_backend
+  - Metric Coders - General GPT powered by Mistral AI
+    - frontend: https://github.com/metriccoders/chatgpt_mistralai_frontend
+    - backend: https://github.com/metriccoders/chatgpt_mistral_ai_backend
 
 
 We hope you find these applications useful and encourage you to contribute!
