@@ -8,9 +8,6 @@ Our applications are built using a variety of technologies:
 
 - Frontend: **React JS**, **Next JS**
 - ML Models: Various Machine Learning models including:
-  - **PyTorch Models**
-  - **Keras Models**
-  - **Scikit-learn Models**
   - **Generative AI models like Llama 2, Mistral AI and others**
 - Backend API: Run models using Fastapi  
 
